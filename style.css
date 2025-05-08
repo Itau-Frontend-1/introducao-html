@@ -1,0 +1,17 @@
+p,
+a {
+  font-size: 20px;
+}
+
+div p {
+  font-family: monospace;
+}
+
+.paragraph#p-1 {
+  color: yellow;
+}
+
+.paragraph#p-1 {
+  color: green;
+  font-size: 20px;
+}
